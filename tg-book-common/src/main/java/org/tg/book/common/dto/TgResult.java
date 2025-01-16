@@ -34,4 +34,9 @@ public class TgResult<T> implements Serializable {
         result.setData(data);
         return result;
     }
+
+    public static TgResult<String> ok() {
+        return ok("200", "成功", null);
+    }
+
 }
