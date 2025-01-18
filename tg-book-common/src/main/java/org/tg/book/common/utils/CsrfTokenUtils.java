@@ -1,6 +1,6 @@
 package org.tg.book.common.utils;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.util.DigestUtils;
 
 public class CsrfTokenUtils {

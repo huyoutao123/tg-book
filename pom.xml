@@ -26,10 +26,7 @@
                 <artifactId>tg-book-service</artifactId>
                 <version>${project.version}</version>
             </dependency>
-            <dependency>
-                <groupId>org.tg</groupId>
-                <artifactId>tg-book-common</artifactId>
-            </dependency>
+
             <dependency>
                 <groupId>org.tg</groupId>
                 <artifactId>tg-book-dal</artifactId>
